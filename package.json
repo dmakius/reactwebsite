@@ -1,7 +1,7 @@
 {
   "name": "djm",
   "version": "0.1.0",
-  "homepage": "https://dmakius.github.io/eactwebsite",
+  "homepage": "https://dmakius.github.io/reactwebsite",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
