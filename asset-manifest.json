@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eactwebsite/static/css/main.2cb91ac0.css",
+    "main.js": "/eactwebsite/static/js/main.7cfaecf0.js",
+    "static/js/787.17f9d39b.chunk.js": "/eactwebsite/static/js/787.17f9d39b.chunk.js",
+    "index.html": "/eactwebsite/index.html",
+    "main.2cb91ac0.css.map": "/eactwebsite/static/css/main.2cb91ac0.css.map",
+    "main.7cfaecf0.js.map": "/eactwebsite/static/js/main.7cfaecf0.js.map",
+    "787.17f9d39b.chunk.js.map": "/eactwebsite/static/js/787.17f9d39b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb91ac0.css",
+    "static/js/main.7cfaecf0.js"
+  ]
+}
